@@ -141,3 +141,43 @@ img {
 .description p {
   font-size: 20px;
 }
+/* End of About Section */
+
+/* Contact Section */
+
+#contact {
+  width: 100%;
+  height: 500px;
+  background-color: palevioletred;
+  color: beige;
+}
+.contact-container {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  height: 500px;
+}
+
+.contact-container h1 {
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+label {
+  font-size: 25px;
+}
+form {
+  margin: auto;
+  width: 50%;
+  border: 1px solid black;
+  height: 300px;
+  text-align: center;
+}
+input[type=button]{
+  width: 200px;
+  height: 40px;
+  background-color:rosybrown;
+  font-size: 20px;
+}
