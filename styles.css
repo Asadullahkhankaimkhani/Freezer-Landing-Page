@@ -173,6 +173,7 @@ img {
 }
 label {
   font-size: 25px;
+  margin-top: 20px;
 }
 form {
   margin: auto;
