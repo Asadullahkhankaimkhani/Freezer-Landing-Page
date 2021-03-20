@@ -20,6 +20,7 @@ li {
     display: inline;
     position: relative;
     margin-left: 40px;   
+    
 }
 img {
     margin-top: -60px;
@@ -151,7 +152,7 @@ img {
 #contact {
   width: 100%;
   height: 500px;
-  background-image: url(./images/contact_img.png);
+  background-image: url(https://tipsmake.com/data/images/100-beautiful-background-png-picture-2-kYPQZQgEy.png);
   overflow: hidden;
   color: beige;
   background-size: cover;
@@ -210,4 +211,14 @@ input[type=button]:hover{
 {
   width: 40%;
   font-size: 20px;
+}
+a {
+  text-decoration: none;
+  height: 100px;
+ 
+}
+a:hover {
+  background-color: black;
+  color: wheat;
+  text-decoration: none;
 }
